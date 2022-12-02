@@ -4,6 +4,6 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 // fetch('https://v2.jokeapi.dev/joke/christmas') ...
 </script>
